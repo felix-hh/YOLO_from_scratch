@@ -1,0 +1,6 @@
+ssl_verify: true
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+env_prompt: '({name}) '
