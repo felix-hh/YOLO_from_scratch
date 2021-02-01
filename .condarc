@@ -1,6 +1,6 @@
 ssl_verify: true
 channels:
-  - pytorch
   - conda-forge
+  - pytorch
   - defaults
 env_prompt: '({name}) '
